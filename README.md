@@ -50,7 +50,9 @@ print(f"Variance is : {var}")
 # Calculation:
 
 # Output
+<img width="529" height="302" alt="image" src="https://github.com/user-attachments/assets/211ae8b3-607e-4596-b9a6-c0e54b1f48bb" />
+
 
 # Results:
 
-The Huffman and Shannon-Fano of the given statistics {0.125, 0.0625, 0.25, 0.0625, 0.125, 0.125, 0.25} using python are verified.
+The Huffman and Shannon-Fano of the given statistics {0.4,0.2,0.2,0.1,0.1} using python are verified.
